@@ -148,8 +148,7 @@ The fine-tuned model significantly outperforms the base model:
 - Increase training dataset size or epochs for better fine-tuning.
 - Try other models (e.g., LLaMA, BLOOM) or adjust LoRA hyperparameters (e.g., `r`, `alpha`).
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 
 ## Contact
-For questions or contributions, contact [Your Name] at [Your Email] or open an issue on GitHub.
+For questions or contributions, contact muhammadfakharulhasnain6@gmail.com 
