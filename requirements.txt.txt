@@ -1,0 +1,12 @@
+torch==2.5.1+cu124
+torchvision==0.20.1+cu124
+torchaudio==2.5.1+cu124
+requests==2.32.3
+datasets==3.2.0
+peft==0.14.0
+trl==0.14.0
+matplotlib
+wandb
+transformers==4.49.0
+accelerate
+bitsandbytes
